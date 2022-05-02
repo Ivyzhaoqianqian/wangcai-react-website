@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wangcai-react-website/static/css/main.4154c8f0.css",
+    "main.js": "/wangcai-react-website/static/js/main.271bcd1e.js",
+    "index.html": "/wangcai-react-website/index.html",
+    "main.4154c8f0.css.map": "/wangcai-react-website/static/css/main.4154c8f0.css.map",
+    "main.271bcd1e.js.map": "/wangcai-react-website/static/js/main.271bcd1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4154c8f0.css",
+    "static/js/main.271bcd1e.js"
+  ]
+}
